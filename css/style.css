@@ -1,0 +1,165 @@
+ul{list-style:none;}
+ul li a{text-decoration:none;
+color:snow;
+padding:5px;
+margin:auto;}
+.h31{
+    margin-left:29%;
+}
+.c1{
+    margin-left:9%;
+}
+
+.ul3{
+
+    color:red;
+  
+}
+.ul3 li a:hover{
+    
+    color:black;
+    text-transform: uppercase;
+}
+.ul1{list-style:none;
+margin-left:35%;
+font-size:15px;
+    font-weight:700;
+}
+.ul1 li a{
+    color:red;
+   text-decoration:none;
+    margin-left:80%;
+}
+.ul1 li {float:left;
+margin-left:1%;
+    padding-left:1%;
+    
+}
+
+.cbox{
+    background-color: black;
+    color:snow;
+}
+
+.cpadd{    
+    padding:10px;  
+    padding-left:90px;
+}
+
+.cheight{
+    height:400px;
+}
+.cimgdim{
+    height:250px;
+    width:250px;
+}
+
+
+
+.pos{
+    position:relative;
+}
+
+.p1{
+position:absolute;
+    top:-12%;
+    left:44.5%;
+    
+}
+
+.p2{
+position:absolute;
+    top:-10%;
+    left:46.5%;
+    
+}
+.div1{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    background-color: black;
+    position:absolute;
+    left:42%;
+    top:-19%
+    
+}
+
+.div2{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    background-color: black;
+    position:absolute;
+    left:42%;
+    top:-15%
+    
+}
+
+.pos1
+{
+    position:absolute;
+    left:40%;
+    top:12%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+h3,h2{
+    font-size:10px;
+    color:red;
+    font-family:sans-serif;
+}
+.butt{
+     position:absolute;
+    left:30%;
+    top:61%
+}
+
+.butt1{
+     position:absolute;
+    left:30%;
+    top:68%
+}
+
+
+.butt2{
+    position:absolute;
+    left:21%;
+    top:67%;
+}
+
+.bt1{
+    margin-left:45%;
+    margin-bottom:3%;
+    
+}
+.formc{
+    color:red;
+    font-size:30px;
+}
+.fname{
+   margin-left:25%; 
+    padding-bottom:3%;
+}
+.femail{
+    margin-left:25%;
+     padding-bottom:3%;
+}
+.fmsg{
+    margin-left:25%;
+     padding-bottom:3%;
+}
+.span1{margin-left:30%;
+    padding-top:10%;
+}
+.blogul li a{
+    color:darkblue;
+}
